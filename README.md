@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anshikasingh4
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning java script
+- 👀 I’m a web developer
+- 🌱 I’m currently learning reactjs
 - 💞️ I’m looking to collaborate on web development
 - 📫 reach me chauhananshika692@gmail.com
 - 😄 Pronouns:she
